@@ -1,0 +1,44 @@
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\bin\Debug\WBD_2.exe.config
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\bin\Debug\WBD_2.exe
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\bin\Debug\WBD_2.pdb
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.csprojResolveAssemblyReference.cache
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Form1.resources
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Properties.Resources.resources
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.csproj.GenerateResource.Cache
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.exe
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.pdb
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Form_Pracownik.resources
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Form_Prezes.resources
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Form_dodaj.resources
+C:\Users\Kasia\Documents\STUDIA\IV semestr\WBD\Projekt\WBD_2\WBD_2\obj\Debug\WBD_2.Form_usun.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\bin\Debug\WBD_2.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form_dodaj.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form_Pracownik.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form_Prezes.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form_usun.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\bin\Debug\WBD_2.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\bin\Debug\WBD_2.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form2.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\WBD\WBD_2\obj\Debug\WBD_2.Form_ksiegowa.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\bin\Debug\WBD_2.exe.config
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.exe
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.pdb
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\bin\Debug\WBD_2.exe
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\bin\Debug\WBD_2.pdb
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form1.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form2.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form_dodaj.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form_ksiegowa.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form_Pracownik.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form_Prezes.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Form_usun.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.Properties.Resources.resources
+C:\Users\Damian\Desktop\WBD\WBD\WBD_2\obj\Debug\WBD_2.csproj.GenerateResource.Cache
